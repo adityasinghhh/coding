@@ -1,0 +1,30 @@
+#include<iostream>
+#include<cstdio>
+#include<memory.h>
+#include<cstdlib>
+#include<algorithm>
+#include<cmath>
+#include<string>
+#include<map>
+#include<cstring>
+#include<vector>
+#include<queue>
+#include<stack>
+#include<assert.h>
+#include<set>
+#include<deque>
+#include<climits>
+#include<utility>
+
+using namespace std;
+
+#define lc(i) (i<<1)
+#define rc(i) ((i<<1)+1)
+#define iscan(n) scanf("%d",&n)
+#define cscan(n) scanf("%c",&n)
+#define sscan(n) scanf("%s",n)
+#define FOR(i,a,b) for(i=a;i<b;++i)
+#define MP(a,b) make_pair(a,b)
+#define PB(a) push_back(a)
+
+

@@ -1,0 +1,1 @@
+char c[999],*b="char c[999],*b=%c%s%c;main(i,n){char a[99];while(gets(a)){for(i=n=0;a[i];i++)n=n*10+a[i]-48;if(n%2)i=1;else i=0;sprintf(c,b,34,b,34);for(;c[i]&&c[i+1];i++)putchar(c[i++]);putchar(10);}}";main(i,n){char a[99];while(gets(a)){for(i=n=0;a[i];i++)n=n*10+a[i]-48;if(n%2)i=1;else i=0;sprintf(c,b,34,b,34);for(;c[i]&&c[i+1];i++)putchar(c[i++]);putchar(10);}}
